@@ -1,4 +1,4 @@
-module ethhdwallet
+module github.com/tinh98/go-ethereum-hdwallet
 
 go 1.20
 
