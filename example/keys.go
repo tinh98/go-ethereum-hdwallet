@@ -1,10 +1,9 @@
 package main
 
 import (
+	hdwallet "ethhdwallet"
 	"fmt"
 	"log"
-
-	"github.com/miguelmota/go-ethereum-hdwallet"
 )
 
 func main() {
